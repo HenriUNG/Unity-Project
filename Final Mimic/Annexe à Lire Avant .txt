@@ -1,0 +1,44 @@
+Voici quelques notes à lire avant de télécharger le projet MIMIC.
+Version Unity : 2019.4.11f1
+
+
+Partie éxécutable:
+
+Le jeu est éxécutable , assez fonctionnel et intuitif en soi (Lancer le fichier ".exe").
+
+Les choses à savoir sont que :
+-le "Volume" est configurable même si il apparaît par défaut à une valeur mal configurée
+- après le lancement, l'utilisation de la touche "Echap" permet de naviguer entre les scènes du menu 
+
+
+Projet Mimic Unitypackage (partie code d'Unity):
+
+-Creer un nouveau projet sur Unity 
+
+-importer le package unity dans le fichier Assets (environ 2-3 min de téléchargement, allez préparez votre café)
+
+Une fois importé les scènes ne sont pas encore configuré, il faut donc les ajouter dans le build settings pour cela :
+
+File > Build Settings
+Ensuite à l'aide d'un glissé/déposé mettre les scènes dans "Scenes In Build"
+Vous pouvez retrouver les scènes à mettre dans  "Assets>Scenes" ils sont à glisser dans cet ordre précis:
+Menu2 (0)
+Static Scene (1)
+Dynamic Scene (2)
+AfficheMenuPause (3)
+
+
+
+Projet Mimic TOTAL
+Projet Mimic avec tous les dossiers et composant
+
+
+
+Remarques : Les musiques inter-scènes peuvent être améliorer pour ne pas être coupé.
+
+Article sur le projet  : "http://blog.univ-angers.fr/polytechangers3asagi/2021/02/26/project-virtual-mimic/"
+
+Voilà le projet Mimic est configuré. Pour tous autres questions n'hésitez pas à me contacté au mail suivant : <henriu71@gmail.com>
+UNG Henri, 3A SAGI Polytech Angers, Projet MIMIC 2020/2021
+
+
